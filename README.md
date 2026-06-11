@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-warm-hand-holding/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Your Warm Hand Holding](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-warm-hand-holding/) |
+| **Get License** | [Get License For Your Warm Hand Holding](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-warm-hand-holding/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dance across the hardwood floor
+> I pull you closer than I did before
+> Just a silent look that leaves me wanting more
+> And your warm hand holding onto mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
